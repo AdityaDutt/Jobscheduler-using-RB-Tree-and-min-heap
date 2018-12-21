@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522462570 source:c:\users\aditya\desktop\jobscheduler\jobscheduler.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<vector>
+	<fstream>
+	<queue>
+	<cmath>
+	<queue>
+	<stack>
+
