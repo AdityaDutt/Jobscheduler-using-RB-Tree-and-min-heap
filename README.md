@@ -2,4 +2,4 @@
 
 Task scheduler using RB tree and min heap.
 
-Steps to run and description are provided in file (https://github.com/AdityaDutt/Jobscheduler-using-RB-Tree-and-min-heap/blob/master/Project_description.pdf)
+[Steps to run and description are provided in file](https://github.com/AdityaDutt/Jobscheduler-using-RB-Tree-and-min-heap/blob/master/Project_description.pdf).
